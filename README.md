@@ -1,22 +1,56 @@
-<h1 align="center">Hi 👋, I'm Gabriel Delapena</h1>
-<h3 align="center">Building apps and breaking limits 🚀</h3>
+<div align="center">
+  
+# 👋 Hey there, I’m **Gabriel Delapena**
+### Building apps and breaking limits 🚀  
 
-- 🔭 I’m currently working on **Movee - A modern movie streaming web app**
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF0bXMyd3V3eno4bnp1cDloZzY2MTU4bjhmbDBkaTUyM3U0Z3U0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="600" />
 
-- 👨‍💻 All of my projects are available at [gabrieldelapena.netlify.app](gabrieldelapena.netlify.app)
+</div>
 
-- 📫 How to reach me **gabriel.l.delapena@gmail.com**
+---
 
-- ⚡ Fun fact **I *think* I’m funny... but my compiler disagrees 😅**
+### 🌟 About Me  
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently crafting **Movee** — a modern movie streaming web app 🎬  
+- 👨‍💻 Explore my projects: [gabrieldelapena.netlify.app](https://gabrieldelapena.netlify.app)  
+- 📫 Reach me at **gabriel.l.delapena@gmail.com**  
+- ⚡ Fun fact: *I think I’m funny... but my compiler disagrees 😅*  
+
+---
+
+### 🤝 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/gabrieldelapena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrieldelapena" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gabrieldelapena" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabriel.l.delapena@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delapenagabriel&show_icons=true&locale=en" alt="delapenagabriel" /></p>
+### 🧠 Languages & Tools  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delapenagabriel&" alt="delapenagabriel" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,spring,postgresql,docker,figma,bootstrap" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=delapenagabriel&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delapenagabriel&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+<div align="center">
+
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
+Thanks for stopping by! 👋  
+
+</div>
+
