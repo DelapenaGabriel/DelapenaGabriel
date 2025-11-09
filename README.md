@@ -1,9 +1,9 @@
 <div align="center">
-  
+
 # 👋 Hey there, I’m **Gabriel Delapena**
 ### Building apps and breaking limits 🚀  
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF0bXMyd3V3eno4bnp1cDloZzY2MTU4bjhmbDBkaTUyM3U0Z3U0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="600" />
+<img src="https://media0.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" alt="Coding animation" />
 
 </div>
 
@@ -12,14 +12,14 @@
 ### 🌟 About Me  
 
 - 🔭 Currently crafting **Movee** — a modern movie streaming web app 🎬  
-- 👨‍💻 Explore my projects: [gabrieldelapena.netlify.app](https://gabrieldelapena.netlify.app)  
+- 👨‍💻 Explore all my projects: [gabrieldelapena.netlify.app](https://gabrieldelapena.netlify.app)  
 - 📫 Reach me at **gabriel.l.delapena@gmail.com**  
 - ⚡ Fun fact: *I think I’m funny... but my compiler disagrees 😅*  
 
 ---
 
 ### 🤝 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/gabrieldelapena" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -33,7 +33,7 @@
 ### 🧠 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,spring,postgresql,docker,figma,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,spring,postgresql,docker,figma,bootstrap" alt="skills" />
 </p>
 
 ---
@@ -41,8 +41,16 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delapenagabriel&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delapenagabriel&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=delapenagabriel&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delapenagabriel&theme=radical" alt="GitHub streak" height="165" />
+</p>
+
+---
+
+### 🎞️ A Bit More Fun  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="fun coding animation" />
 </p>
 
 ---
@@ -53,4 +61,3 @@
 Thanks for stopping by! 👋  
 
 </div>
-
