@@ -47,14 +47,6 @@
 
 ---
 
-### 🐍 Watch My Contributions Come Alive  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/delapenagabriel/delapenagabriel/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 <div align="center">
 
 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
