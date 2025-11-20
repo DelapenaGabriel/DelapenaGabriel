@@ -53,3 +53,7 @@
 Thanks for stopping by! 👋  
 
 </div>
+
+<div>
+  <img src="https://i.pinimg.com/originals/65/a7/d5/65a7d53c0c921de180b400a2a6892381.gif" width="700" alt="Coding animation" />
+</div>
