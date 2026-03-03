@@ -26,7 +26,7 @@
 | Status | Activity | Target |
 | :--- | :--- | :--- |
 | 🔭 **Exploring** | Distributed Systems | High Scalability |
-| 👨‍💻 **Coding** | CaptureIt | Web3 Integration |
+| 👨‍💻 **Coding** | CaptureIt | System Architect |
 | ⚡ **Fun Fact** | *My code is poetry, but my compiler is a harsh critic.* | Runtime |
 
 ---
