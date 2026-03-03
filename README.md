@@ -1,56 +1,51 @@
 <div align="center">
 
-# **GABRIEL DELAPENA**
-### ⚡ Full-Stack Software Engineer | Turning Complex Logic into Seamless Experiences
+# ⚡ **GABRIEL DELAPENA**
+### Full-Stack Software Engineer | Turning Complex Logic into Seamless Experiences
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20the%20Future&fontSize=50&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Engineering%20Scalable%20Solutions&fontSize=35&animation=fadeIn&fontAlignY=50&theme=github_dark" width="100%" />
 
 ---
 
-### 🚀 **Current Mission: CaptureIt**
-> *Revolutionizing event memories through a seamless, timeless wedding invitation & digital photo booth ecosystem.*
+### 📂 **Active Project: CaptureIt**
+> **Tech:** Vue.js • Spring Boot • PostgreSQL • Docker  
+> *A high-concurrency event ecosystem merging digital invitations with cloud-based photo booth logic.*
 
-[**Explore Portfolio**](https://gabrieldelapena.com) • [**Drop an Email**](mailto:gabriel.l.delapena@gmail.com) • [**View Network**](https://linkedin.com/in/gabrieldelapena)
+[**gabrieldelapena.com**](https://gabrieldelapena.com) | [**LinkedIn**](https://linkedin.com/in/gabrieldelapena) | [**Contact**](mailto:gabriel.l.delapena@gmail.com)
 
 </div>
 
-### 🛠️ **The Tech Stack**
+---
+
+### 🛠️ **The Technical Core**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,vue,java,spring,postgres,docker,figma,bootstrap,tailwind,threejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,vue,postgresql,docker,html,css,bootstrap,figma&theme=dark" />
 </p>
 
 ---
 
-### 🛸 **Operational Intel**
-
-| Status | Activity | Target |
-| :--- | :--- | :--- |
-| 🔭 **Exploring** | Distributed Systems | High Scalability |
-| 👨‍💻 **Coding** | CaptureIt | System Architect |
-| ⚡ **Fun Fact** | *My code is poetry, but my compiler is a harsh critic.* | Runtime |
-
----
-
-### 📊 **Network Diagnostics**
+### 📡 **System Performance**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delapenagabriel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delapenagabriel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=delapenagabriel&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delapenagabriel&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delapenagabriel&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delapenagabriel&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" />
 </p>
 
 ---
 
-### 🌑 **Terminal Feedback**
+### 📜 **Engineering Logs**
+
+* 🏗️ **Building:** Modular microservices and reactive front-ends.
+* 🔒 **Web3:** Researching decentralized identity and smart contract integration.
+* 🎮 **Fun Fact:** My code has a 0% bug rate* (*until it runs*).
+
 <div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
   
-`01100110 01110101 01110100 01110101 01110010 01100101`
-  
-*"Code is like humor. When you have to explain it, it’s bad."*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
+  *“Code is like humor. When you have to explain it, it’s bad.”*
 </div>
