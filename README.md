@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌌 **GABRIEL DELAPENA**
-### ⚡ `Full-Stack Architect` | `Web3 Visionary` | `UI/UX Enthusiast`
+# **GABRIEL DELAPENA**
+### ⚡ Full-Stack Software Engineer | Turning Complex Logic into Seamless Experiences
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20the%20Future&fontSize=50&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
 
